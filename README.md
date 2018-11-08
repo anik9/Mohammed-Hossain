@@ -1,5 +1,4 @@
 
-<!Doctype html>
 <html>
 <body>
 <h1> My First Digital Zine </h1>
