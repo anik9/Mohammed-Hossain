@@ -1,8 +1,8 @@
-# STUDIOANIK
+
 <!Doctype html>
 <html>
 <body>
-<h1> STUDIO ANIK </h1>
+<h1> My First Digital Zine </h1>
     <p> We will all talk about animation. </p>
     
     <br>
@@ -14,7 +14,6 @@
     <em> just testing this out</em>
         <sub> im gonna work on my zine</sub>
         
-<img src="tumblr_photo.jpg" alt="missing image">
     
     
     
