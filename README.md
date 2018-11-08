@@ -1,26 +1,20 @@
 
 <html>
 <body>
-<h1> My First Digital Zine </h1>
-    <p> We will all talk about animation. </p>
+<h1> <b>My First Digital Zine</b> </h1>
+    <p>Studio Anik is my idea of creating a sort of brand that takes inspiration from anime and fashion to share and discuss new and creative ways to make media.</p>
     
-    <br>
-    <p> <b>THIS IS NOT A REVIEW</b>
-        <br> </p>
    
-    <p> <a href = https://github.com/ >this is the link to github </a> </p>
-    <p> <i> this is cool</i>
-    <em> just testing this out</em>
-        <sub> im gonna work on my zine</sub>
+   <p><a href= “https://issuu.com/anik94/docs/studio_anik_zine”>My First Zine</a><p>
+    
+   
         
     
     
     
     
     
-    
-    </p>
-    
+  
     
     
     
