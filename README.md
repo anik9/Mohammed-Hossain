@@ -2,7 +2,7 @@
 <!Doctype html>
 <html>
 <body>
-<h1> My First Heading </h1>
+<h1> STUDIO ANIK </h1>
     <p> We will all talk about animation. </p>
     
     <br>
