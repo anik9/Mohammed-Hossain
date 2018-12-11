@@ -8,7 +8,7 @@
     
    
    <p><a href="https://issuu.com/anik94/docs/studio_anik_zine">Check out my zine!</a></p>
-   <p><a href="https://issuu.com/anik94/docs/studio_anik_zine">This is my alter ego</a></p>
+   <p><a href="https://ibb.co/VWZpdHz">This is my alter ego</a></p>
    <p><a href="https://issuu.com/anik94/docs/studio_anik_zine">My first logo</a></p>
    <p><a href="https://www.youtube.com/watch?v=dHFNYpAntnQ&feature=youtu.be">Check out my video!</a></p>
         
