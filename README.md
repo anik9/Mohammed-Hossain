@@ -7,7 +7,7 @@
    
    
    
-   <h1> <b>My First Works in New Media</b> </h1>  
+   <h1> <b>Welcome to my Page</b> </h1>  
       <img src="02 zine 1.jpg">
       <p>Studio Anik is my idea of creating a brand that takes inspiration from anime and fashion. This website is to share and express everything I've learned from my Media class. Many of my works are experimentations and actually the first time using programs to create these pieces of work. Hope you all enjoy!</p>
     
